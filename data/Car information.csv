@@ -1,0 +1,131 @@
+﻿Car,Car Type,Fuel Type,Price,Fuel Efficiency Rating,High Performance Rating,Reliability rating,comfort rating,Link to website,Range
+Volvo C40 Recharge,Crossover,Electric,55300,6,6,7,8,https://www.volvocars.com/us/,226
+Volvo XC90,Crossover,Gas,56000,4,7,7,8,https://www.volvocars.com/us/,414
+Volvo XC90,Crossover,Hybrid,72995,6,7,7,8,https://www.volvocars.com/us/,520
+Volvo XC60,Crossover,Gas,43450,4,6,7,7,https://www.volvocars.com/us/,498
+Volvo XC60,Crossover,Hybrid,57200,6,6,7,7,https://www.volvocars.com/us/,455
+Volvo XC40,Crossover,Gas,36350,4,5,7,6,https://www.volvocars.com/us/,223
+Volvo XC40,Crossover,Electric,53550,6,5,7,6,https://www.volvocars.com/us/,223
+Volvo EX30,Crossover,Electric,34950,6,5,6,5,https://www.volvocars.com/us/,275
+Volvo S90,Sedan,Gas,57000,4,5,6,5,https://www.volvocars.com/us/,413
+Volvo S90,Sedan,Hybrid,70500,4,5,6,5,https://www.volvocars.com/us/,538
+Volvo S60,Sedan,Gas,41300,5,5,7,6,https://www.volvocars.com/us/,556
+Volvo S60,Sedan,Hybrid,51250,5,6,7,8,https://www.volvocars.com/us/,520
+Volvo V90 Cross Country,Crossover,Gas,58450,4,5,7,8,https://www.volvocars.com/us/,461
+Volvo V60,Crossover,Hybrid,70550,5,6,6,8,https://www.volvocars.com/us/,523
+Volvo V60 Cross Country,Crossover,Gas,48800,3,5,6,8,https://www.volvocars.com/us/,365
+Cadillac Escalade-V,SUV,Gas,149695,2,8,7,9,https://www.cadillac.com,312
+Cadillac Escalade,SUV,Gas,80795,2,8,7,9,https://www.cadillac.com,336
+Cadillac XT6,SUV,Gas,48595,3,6,6,8,https://www.cadillac.com,399
+Cadillac LYRIQ,SUV,Electric,58590,8,7,7,8,https://www.cadillac.com,314
+Cadillac XT5,SUV,Gas,44195,3,6,8,8,https://www.cadillac.com,551
+Cadillac XT4,SUV,Gas,36295,5,6,7,7,https://www.cadillac.com,447
+Cadillac CT5 V Series,Sedan,Gas,50995,6,8,5,5,https://www.cadillac.com,307
+Cadillac CT5,Sedan,Gas,38195,6,8,5,6,https://www.cadillac.com,561
+Cadillac CT4 V Series,Sedan,Gas,46595,3,8,6,7,https://www.cadillac.com,459
+Cadillac CT4  ,Sedan,Gas,34395,5,6,6,7,https://www.cadillac.com,413
+Tesla Model S,Sedan,Electric,88490,9,9,5,8,https://www.tesla.com,405
+Tesla Model 3,Sedan,Electric,40240,8,8,8,8,https://www.tesla.com,272
+Tesla Model X,Crossover,Electric,98490,8,8,5,7,https://www.tesla.com,348
+Tesla Model Y,Crossover,Electric,47740,7,8,6,7,https://www.tesla.com,279
+Ford Mustang,Sportscar,Gas,30920,6,7,8,7,https://www.ford.com/cars/,305
+Ford Escape,Crossover,Gas,28000,7,5,9,7,https://www.ford.com/cars/,486
+Ford Bronco,SUV,Gas,34890,4,5,3,7,https://www.ford.com/cars/,437
+Ford Bronco Sport,SUV,Gas,29215,5,4,8,5,https://www.ford.com/cars/,368
+Ford Explorer,SUV,Gas,36760,5,5,6,7,https://www.ford.com/cars/,510
+Ford Edge,Crossover,Gas,37945,5,5,6,7,https://www.ford.com/cars/,481
+Ford Mustang MachE,Sportscar,Electric,42995,6,7,5,8,https://www.ford.com/cars/,250
+Ford Expedition ,SUV,Gas,56075,3,6,6,8,https://www.ford.com/cars/,475
+Ford Escape Hybrid,Crossover,Hybrid,35040,8,5,7,7,https://www.ford.com/cars/,550
+Ford F150 Lightning,Truck,Electric,49995,6,5,5,5,https://www.ford.com/cars/,240
+Ford Super Duty,Truck,Gas,43970,3,7,5,5,https://www.ford.com/cars/,1000
+Ford F150,Truck,Gas,33695,3,5,5,5,https://www.ford.com/cars/,550
+Ford Ranger,Truck,Gas,27400,4,5,5,5,https://www.ford.com/cars/,396
+Ford Maverick,Truck,Gas,23400,4,5,5,6,https://www.ford.com/cars/,511
+Ford Explorer Hybrid,SUV,Hybrid,47070,6,5,7,7,https://www.ford.com/cars/,500
+Chevy Bolt EV,SUV,Electric,26500,6,3,6,5,https://www.chevrolet.com/,259
+Chevy Bolt EUV,SUV,Electric,27800,6,4,6,6,https://www.chevrolet.com/,560
+Chevy Trax,SUV,Gas,20400,4,5,7,7,https://www.chevrolet.com/,378
+Chevy Trailblazer,SUV,Gas,22100,4,5,6,4,https://www.chevrolet.com/,383
+Chevy Equinox,SUV,Gas,26600,4,5,8,7,https://www.chevrolet.com/,415
+Chevy Blazer,SUV,Gas,35100,4,5,7,5,https://www.chevrolet.com/,521
+Chevy Traverse,SUV,Gas,34250,5,6,5,6,https://www.chevrolet.com/,520
+Chevy Tahoe,SUV,Gas,54200,5,7,9,8,https://www.chevrolet.com/,384
+Chevy Suburban,SUV,Gas,57200,5,7,7,8,https://www.chevrolet.com/,476
+Chevy Colorado,Truck,Gas,29200,5,6,6,6,https://www.chevrolet.com/,483
+Chevy Silverado,Truck,Gas,36300,6,7,5,5,https://www.chevrolet.com/,506
+Chevy Silverdado HD,Truck,Gas,43400,3,7,6,7,https://www.chevrolet.com/,425
+Chevy Malibu,Sedan,Gas,2500,8,4,7,6,https://www.chevrolet.com/,500
+Chevy Camaro,Sportscar,Gas,26100,5,6,5,5,https://www.chevrolet.com/,275
+Chevy Corvette Stingray,Sportscar,Gas,66300,5,9,9,8,https://www.chevrolet.com/,352
+Chevy Corvette Z06,Sportscar,Gas,108100,4,9,9,8,https://www.chevrolet.com/,278
+Chevy Corvette E-Ray,Sportscar,Hybrid,102900,6,9,9,8,https://www.chevrolet.com/,350
+Jeep Grand Cherokee,SUV,Gas,40130,6,5,6,7,https://www.jeep.com/,483
+Jeep Grand Cherokee L,SUV,Gas,42130,6,6,6,7,https://www.jeep.com/,575
+Jeep Compass,SUV,Gas,28400,7,4,7,6,https://www.jeep.com/,432
+Jeep Cherokee,SUV,Gas,37695,8,5,7,7,https://www.jeep.com/,598
+Jeep Renegade,SUV,Gas,28345,7,5,7,5,https://www.jeep.com/,310
+Jeep Wrangler,SUV,Gas,31195,6,6,7,4,https://www.jeep.com/,350
+Jeep Gladiator,SUV,Gas,38990,6,5,5,4,https://www.jeep.com/,418
+Jeep Wrangler 4xe,SUV,Hybrid,54735,8,6,7,4,https://www.jeep.com/,370
+Jeep Grand Cherokee 4xe,SUV,Hybrid,60460,9,7,5,7,https://www.jeep.com/,470
+Subaru Crosstrek,Crossover,Gas,24995,7,5,7,6,https://www.subaru.com/,500
+Subaru Forester,Crossover,Gas,26495,6,5,7,8,https://www.subaru.com/,481
+Subaru Outback,Crossover,Gas,28895,7,5,9,8,https://www.subaru.com/,610
+Subaru Ascent,Crossover,Gas,33895,5,6,7,5,https://www.subaru.com/,520
+Subaru Solterra,Crossover,Electric,44995,9,6,6,5,https://www.subaru.com/,228
+Subaru Impreza,Sedan,Gas,22995,6,4,6,7,https://www.subaru.com/,396
+Subaru Legacy,Sedan,Gas,24895,6,5,5,7,https://www.subaru.com/,647
+Subaru BRZ,Sportscar,Gas,28595,4,6,6,6,https://www.subaru.com/,440
+Subaru WRX,Sportscar,Gas,30605,4,7,5,7,https://www.subaru.com/,365
+Toyota Crown,Sedan,Gas,39950,,,,,,
+Toyota Prius Prime,Sedan,Hybrid,32350,,,,,,
+Toyota Prius,Sedan,Hybrid,27450,,,,,,
+Toyota GR Corolla,Sportscar,Gas,35900,,,,,,
+Toyota Corolla,Sedan,Gas,21700,,,,,,
+Toyota Corolla Hybrid,Sedan,Hybrid,23050,,,,,,
+Toyota Corolla Hatchback,Sportscar,Gas,23155,,,,,,
+Toyota Camry,Sedan,Gas,26420,,,,,,
+Toyota Camry Hybrid,Sedan,Hybrid,28855,,,,,,
+Toyota GR86,Sportscar,Gas,28500,,,,,,
+Toyota GR Supra,Sportscar,Gas,45540,,,,,,
+Toyota Sienna,Van,Gas,36885,,,,,,
+Toyota Tacoma,Truck,Gas,28600,,,,,,
+Toyota Tundra,Truck,Gas,38965,,,,,,
+Toyota Tundra iForce Max,Truck,Gas,56415,,,,,,
+Toyota Highlander,SUV,Gas,36620,,,,,,
+Toyota bz4x,Crossover,Electric,42000,,,,,,
+Toyota Highlander Hybrid,SUV,Hybrid,40620,,,,,,
+Toyota Grand Highlander,SUV,Gas,43070,,,,,,
+Toyota Sequioa,SUV,Gas,59865,,,,,,
+Toyota RAV4,Crossover,Gas,28275,,,,,,
+Toyota RAV4 Hybrid,Crossover,Hybrid,31225,,,,,,
+Toyota RAV4 Prime,Crossover,Hybrid,43090,,,,,,
+Toyota Corolla Cross,Crossover,Gas,23610,,,,,,
+Toyota Corolla Cross Hybrid,Crossover,Hybrid,27970,,,,,,
+Toyota 4Runner,SUV,Gas,40155,,,,,,
+Toyota Venza,Crossover,Gas,34620,,,,,,
+Honda HR-V,Crossover,Gas,24100,,,,,,
+Honda CR-V,Crossover,Gas,29500,,,,,,
+Honda CR-V Hybrid,Crossover,Gas,33350,,,,,,
+Honda Pilot,SUV,Gas,36300,,,,,,
+Honda Passport,SUV,Gas,41100,,,,,,
+Honda Civic Sedan,Sedan,Gas,23750,,,,,,
+Honda Accord,Sedan,Gas,27295,,,,,,
+Honda Civic Si Sedan,Sedan,Gas,28800,,,,,,
+Honda Accord Hybrid,Sedan,Gas,31895,,,,,,
+Honda Civic Hatchback,Sedan,Gas,24750,,,,,,
+Honda Civic Type R,Sportscar,Gas,43795,,,,,,
+Honda Odyssey,Van,Gas,37840,,,,,,
+Honda Ridgeline,Truck,Gas,33800,,,,,,
+Honda CR-V Hybrid,Crossover,Hybrid,29500,,,,,,
+Mazda CX-30,SUV,Gas,22950,,,,,,
+Mazda CX-5,SUV,Gas,26700,,,,,,
+Mazda CX-50,SUV,Gas,30300,,,,,,
+Mazda CX-90,SUV,Gas,39595,,,,,,
+Mazda CX-90 PHEV,SUV,Hybrid,47445,,,,,,
+Mazda MX-30 EV,SUV,Electric,34110,,,,,,
+Mazda3 Sedan,Sedan,Gas,22550,,,,,,
+Mazda3 Hatchback,Sedan,Gas,25690,,,,,,
+Mazda MX-5 Miata,Sportscar,Gas,28050,,,,,,
+Mazda MX-5 Miata RF,Sportscar,Gas,35750,,,,,,
