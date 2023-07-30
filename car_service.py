@@ -6,7 +6,7 @@
 # from the partner application. This service returns the most highly rated car from the external
 # dataset.
 
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, request
 import csv, json
 
 app = Flask(__name__)
