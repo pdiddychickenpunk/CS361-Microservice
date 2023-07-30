@@ -14,14 +14,13 @@ data_base_path = r'data\Car information.csv'
 database = []
 
 @app.route("/")
-def display_data(data):
-    return render_template('index.html')
+def display_data():
+    return "<p> Data will be sent.</p>"
 
 @app.route("/get_car/", methods=['POST'])
 def get_car():
     car_data = request.json
     # Retrieve and parse JSON data.
-    print(car_data)
     car_type = car_data['car_type'].lower()
     fuel_type = car_data['fuel_type'].lower()
     price_range = car_data['price_range'].lower()
@@ -40,9 +39,6 @@ def get_car():
         for row in database_data:
             database.append(row)
 
-    print("Data Input:")
-    print(car_data) # Display JSON data read in.
-    print("---------------------------------------------------------")
     # Filter database down to only what user put as their values.
     user_database = []
     highest_rating = 0
@@ -56,8 +52,9 @@ def get_car():
         database_reliability_rating = row[6]
         database_comfort_rating = row[7]
         database_url = row[-2]
+
         # Validate no empty values were found. If so, we skip.
-        if (database_car_name == '' or database_car_type == '' or database_fuel_type == '' or database_price == '' or database_fuel_efficiency_rating == '' or database_high_performance_rating == '' or database_reliability_rating == '' or database_comfort_rating == ''):
+        if (database_car_name == '' or database_car_name == 'Car' or database_car_type == '' or database_car_type == 'Car Type' or database_fuel_type == '' or database_fuel_type == 'Fuel Type' or database_price == '' or database_price == 'Price' or database_fuel_efficiency_rating == '' or database_fuel_efficiency_rating == 'Fuel Efficiency Rating' or database_high_performance_rating == '' or database_high_performance_rating == 'High Performance Rating' or database_reliability_rating == '' or database_reliability_rating == 'Reliability rating' or database_comfort_rating == '' or database_comfort_rating == 'comfort rating' or database_url == '' or database_url == 'Link to website'):
             continue
 
         # Convert database ratings and price to int.
@@ -118,8 +115,12 @@ def get_car():
                 'comfort_rating': final_comfort_rating,
                 'url': final_url
     }
-    
+
     return car_choice
+
+
+if __name__ == '__main__':
+    app.run(debug=True, port=8001)
 
 
 """Attributions:
@@ -135,5 +136,6 @@ https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 https://stackoverflow.com/questions/10313001/is-it-possible-to-make-post-request-in-flask
 (first answer)
 https://pythonbasics.org/flask-http-methods/
+https://www.geeksforgeeks.org/how-to-change-port-in-flask-app/#
 
 """
