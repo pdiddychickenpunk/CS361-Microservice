@@ -137,5 +137,6 @@ https://stackoverflow.com/questions/10313001/is-it-possible-to-make-post-request
 (first answer)
 https://pythonbasics.org/flask-http-methods/
 https://www.geeksforgeeks.org/how-to-change-port-in-flask-app/#
+Info from the .json() method.
 
 """
