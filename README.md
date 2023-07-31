@@ -20,3 +20,26 @@ In the above example, you provide the JSON file as part of the request.
 
 A response will be automatically sent by the service. Your application must automatically look for a response from the original request. The JSON data is in the response itself, so the JSON data must be retrieved
 from that response.
+
+# Diagram
+
+![Alt text](image.png)
+
+# Attributions
+
+https://flexiple.com/python/python-get-current-directory/
+https://stackoverflow.com/questions/17211188/how-to-create-a-timer-on-python
+(second answer)
+https://docs.python.org/3/library/csv.html
+https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application
+https://stackoverflow.com/questions/20001229/how-to-get-posted-json-in-flask
+(second answer)
+https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+https://stackoverflow.com/questions/10313001/is-it-possible-to-make-post-request-in-flask
+(first answer)
+https://pythonbasics.org/flask-http-methods/
+https://www.geeksforgeeks.org/how-to-change-port-in-flask-app/#
+Info from the .json() method for (requests?). https://github.com/psf/requests
+https://app.diagrams.net/
+https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
+(answers 1 - 5 helped in my discovery of how to insert image to README)
