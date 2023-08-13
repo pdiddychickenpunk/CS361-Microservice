@@ -24,10 +24,10 @@ def get_car():
     car_type = car_data['car_type'].lower()
     fuel_type = car_data['fuel_type'].lower()
     price_range = car_data['price_range'].lower()
-    fuel_efficiency_preferance = int(car_data['fuel_efficiency-preferance'])
-    high_performance_preferance = int(car_data['high_performance-preferance'])
-    reliability_preferance = int(car_data['reliability-preferance'])
-    comfort_preferance = int(car_data['comfort-preferance'])
+    fuel_efficiency_preference = int(car_data['fuel_efficiency-preference'])
+    high_performance_preference = int(car_data['high_performance-preference'])
+    reliability_preference = int(car_data['reliability-preference'])
+    comfort_preference = int(car_data['comfort-preference'])
 
     # Price range is pipe separated, low|high. Get low price and high price.
     price_range = price_range.split("|")
@@ -79,7 +79,7 @@ def get_car():
         
         # The row of database data is acceptable for the user's choices. Proceed to calculate highest rating.
         else:
-            rating = (database_fuel_efficiency_rating * fuel_efficiency_preferance) + (database_high_performance_rating * high_performance_preferance) + (database_reliability_rating * reliability_preferance) + (database_comfort_rating * comfort_preferance)
+            rating = (database_fuel_efficiency_rating * fuel_efficiency_preference) + (database_high_performance_rating * high_performance_preference) + (database_reliability_rating * reliability_preference) + (database_comfort_rating * comfort_preference)
 
             if (rating > highest_rating):
                 highest_rating = rating
@@ -138,5 +138,12 @@ https://stackoverflow.com/questions/10313001/is-it-possible-to-make-post-request
 https://pythonbasics.org/flask-http-methods/
 https://www.geeksforgeeks.org/how-to-change-port-in-flask-app/#
 Info from the .json() method for (requests?). https://github.com/psf/requests
+https://languages.oup.com/google-dictionary-en
+https://www.google.com/search?sca_esv=556432238&q=preference&si=ACFMAn-S_tFEbe5J-h2tG_x3DZ9e6V1iGTG1kym1dG9bJdUV4PAy8C7ZximM6KWNzo6HP5VS6ZaBrBcWYuY7N04ypjSwVf4_Euyb6OcC26VIZyrGqFyQuzU%3D&expnd=1&sa=X&sqi=2&ved=2ahUKEwiOxpaL1tiAAxXiPEQIHcm-C1oQ2v4IegQIGxBc&biw=1920&bih=923&dpr=1
+(Google search to check spelling)
+https://blog.apastyle.org/apastyle/2013/10/how-do-i-cite-a-search-in-apa-style.html#:~:text=Slightly%20Longer%20A%3A%20A%20search,or%20in%20the%20reference%20list.&text=what%20they%20did%20with%20the%20results.
+https://www.seoquake.com/blog/google-search-param/#:~:text=URL%20Search&text=The%20latter%20does%20not%20require,interest%E2%80%9D(or%20as_q).
+https://support.google.com/docs/answer/161768?hl=en&co=GENIE.Platform%3DDesktop
+https://www.google.com/search?q=preference&oq=preference&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDIKCAMQABixAxiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIKCAkQLhjUAhiABNIBCDEyNjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 
 """
