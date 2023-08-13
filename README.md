@@ -9,8 +9,8 @@ A JSON file must be provided to the request in the following format:
 
 "car_type": "string value", "fuel_type": "string value", 
 "price_range": "int value (low)|int value (high)", 
-"fuel_efficiency-preferance":"int value", "high_performance-preferance":"int value", 
-"reliability-preferance":"int value", "comfort-preferance":"int value"
+"fuel_efficiency-preference":"int value", "high_performance-preference":"int value", 
+"reliability-preference":"int value", "comfort-preference":"int value"
 
 An example call would be:
 
